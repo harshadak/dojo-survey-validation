@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+     text-align: center; 
+}
+form {
+    border: 2px solid black;
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+input, select, textarea {
+    display: block;
+    margin-bottom: 15px;
+}
+div.result {
+    margin: 0 auto;
+}
+h4, p {
+    display: inline-block;
+}
